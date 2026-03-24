@@ -11,3 +11,8 @@ This repository tracks my learning and experiments in Web3, smart contracts, and
 Learning Solidity basics  
 Explored Base ecosystem  
 Tried smart contract deployment
+Day 6: Learning Remix IDE  
+Day 7: Testing transactions  
+Day 8: Reading docs  
+Day 9: Improving knowledge  
+Day 10: Exploring tools
