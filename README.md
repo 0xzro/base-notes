@@ -4,3 +4,6 @@ This repository tracks my learning and experiments in Web3, smart contracts, and
 
 ## Updates
 - Starting my journey 🚀# base-notes
+Learning Solidity basics  
+Explored Base ecosystem  
+Tried smart contract deployment
