@@ -25,3 +25,5 @@ Day 14: Understanding transactions on Base
 update day 14
 Day 15: Learning about wallets and security
 update day 15
+Day 16: Testing small contract updates
+update day 16
