@@ -23,3 +23,5 @@ Day 13: Exploring Base ecosystem projects
 update day 13
 Day 14: Understanding transactions on Base
 update day 14
+Day 15: Learning about wallets and security
+update day 15
