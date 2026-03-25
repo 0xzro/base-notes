@@ -19,3 +19,5 @@ Day 10: Exploring tools
 Day 11: Learning Base tools
 update day 11
 Day 12: Practicing smart contract basics
+Day 13: Exploring Base ecosystem projects
+update day 13
