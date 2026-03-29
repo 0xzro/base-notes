@@ -117,3 +117,6 @@ Connecting wallet to dApp
 
 ### Day 38
 Learning ethers.js basics
+
+### Day 39
+Interacting with smart contracts via frontend
