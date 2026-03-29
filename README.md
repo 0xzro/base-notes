@@ -60,4 +60,5 @@ Understanding modifiers
 
 ### Day 19
 Practicing mappings
-
+### Day 20
+Exploring gas optimization
