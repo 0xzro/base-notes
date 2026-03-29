@@ -51,3 +51,6 @@ Learning about wallets and security
 
 ### Day 16
 Testing small contract updates
+
+### Day 17
+Learning events in Solidity
