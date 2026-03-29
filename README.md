@@ -69,3 +69,6 @@ Learning ERC20 token basics
 
 ### Day 22
 Deploying token contract
+
+### Day 23
+Testing token transfers
