@@ -93,3 +93,6 @@ Learning contract upgrades
 
 ### Day 30
 Reviewing Solidity concepts
+
+### Day 31
+Exploring NFT standards (ERC721)
