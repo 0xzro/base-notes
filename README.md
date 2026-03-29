@@ -112,4 +112,5 @@ Testing NFT transfers
 ### Day 36
 Exploring Web3.js basics
 
-
+### Day 37
+Connecting wallet to dApp
