@@ -78,3 +78,6 @@ Reading smart contract security basics
 
 ### Day 25
 Exploring Base dApps
+
+### Day 26
+Learning contract interactions
