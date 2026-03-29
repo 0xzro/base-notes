@@ -129,3 +129,6 @@ Learning about Layer 2 solutions
 
 ### Day 42
 Understanding bridging assets
+
+### Day 43
+Exploring DeFi basics
