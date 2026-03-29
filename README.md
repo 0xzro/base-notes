@@ -138,3 +138,6 @@ Learning liquidity pools
 
 ### Day 45
 Understanding staking concepts
+
+### Day 46
+Testing DeFi applications
