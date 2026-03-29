@@ -126,3 +126,6 @@ Exploring Base network tools
 
 ### Day 41
 Learning about Layer 2 solutions
+
+### Day 42
+Understanding bridging assets
