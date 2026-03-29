@@ -96,3 +96,6 @@ Reviewing Solidity concepts
 
 ### Day 31
 Exploring NFT standards (ERC721)
+
+### Day 32
+Minting basic NFT
