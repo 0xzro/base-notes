@@ -114,3 +114,6 @@ Exploring Web3.js basics
 
 ### Day 37
 Connecting wallet to dApp
+
+### Day 38
+Learning ethers.js basics
