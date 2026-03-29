@@ -153,3 +153,8 @@ Understanding tokenomics
 
 ### Day 50
 Reviewing Web3 journey progress
+
+### Day 51
+Practicing advanced Solidity concepts
+
+
