@@ -132,3 +132,6 @@ Understanding bridging assets
 
 ### Day 43
 Exploring DeFi basics
+
+### Day 44
+Learning liquidity pools
