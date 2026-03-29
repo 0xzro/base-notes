@@ -157,4 +157,5 @@ Reviewing Web3 journey progress
 ### Day 51
 Practicing advanced Solidity concepts
 
-
+### Day 52
+Learning contract security vulnerabilities
