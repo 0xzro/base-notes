@@ -124,3 +124,5 @@ Interacting with smart contracts via frontend
 ### Day 40
 Exploring Base network tools
 
+### Day 41
+Learning about Layer 2 solutions
