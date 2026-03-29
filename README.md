@@ -109,3 +109,7 @@ Understanding decentralized storage
 ### Day 35
 Testing NFT transfers
 
+### Day 36
+Exploring Web3.js basics
+
+
