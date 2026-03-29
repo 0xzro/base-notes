@@ -102,3 +102,7 @@ Minting basic NFT
 
 ### Day 33
 Learning IPFS basics
+
+### Day 34
+Understanding decentralized storage
+
