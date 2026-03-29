@@ -142,6 +142,12 @@ Understanding staking concepts
 ### Day 46
 Testing DeFi applications
 
+### Day 47
+Learning DAO basics
+
+### Day 48
+Exploring governance models
+
 ### Day 49
 Understanding tokenomics
 
