@@ -120,3 +120,7 @@ Learning ethers.js basics
 
 ### Day 39
 Interacting with smart contracts via frontend
+
+### Day 40
+Exploring Base network tools
+
