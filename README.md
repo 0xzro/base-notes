@@ -54,3 +54,6 @@ Testing small contract updates
 
 ### Day 17
 Learning events in Solidity
+
+### Day 18
+Understanding modifiers
