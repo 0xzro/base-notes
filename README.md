@@ -87,3 +87,6 @@ Using testnets
 
 ### Day 28
 Debugging smart contracts
+
+### Day 29
+Learning contract upgrades
