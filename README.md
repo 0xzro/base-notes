@@ -159,3 +159,6 @@ Practicing advanced Solidity concepts
 
 ### Day 52
 Learning contract security vulnerabilities
+
+### Day 53
+Exploring auditing basics
