@@ -76,3 +76,5 @@ Testing token transfers
 ### Day 24
 Reading smart contract security basics
 
+### Day 25
+Exploring Base dApps
