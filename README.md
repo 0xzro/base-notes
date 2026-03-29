@@ -72,3 +72,7 @@ Deploying token contract
 
 ### Day 23
 Testing token transfers
+
+### Day 24
+Reading smart contract security basics
+
