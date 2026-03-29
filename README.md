@@ -66,3 +66,6 @@ Exploring gas optimization
 
 ### Day 21
 Learning ERC20 token basics
+
+### Day 22
+Deploying token contract
