@@ -57,3 +57,7 @@ Learning events in Solidity
 
 ### Day 18
 Understanding modifiers
+
+### Day 19
+Practicing mappings
+
