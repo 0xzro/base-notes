@@ -99,3 +99,6 @@ Exploring NFT standards (ERC721)
 
 ### Day 32
 Minting basic NFT
+
+### Day 33
+Learning IPFS basics
