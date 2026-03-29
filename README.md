@@ -106,3 +106,6 @@ Learning IPFS basics
 ### Day 34
 Understanding decentralized storage
 
+### Day 35
+Testing NFT transfers
+
