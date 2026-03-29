@@ -135,3 +135,6 @@ Exploring DeFi basics
 
 ### Day 44
 Learning liquidity pools
+
+### Day 45
+Understanding staking concepts
