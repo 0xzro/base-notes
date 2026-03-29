@@ -144,3 +144,6 @@ Testing DeFi applications
 
 ### Day 49
 Understanding tokenomics
+
+### Day 50
+Reviewing Web3 journey progress
