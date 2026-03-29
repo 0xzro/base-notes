@@ -90,3 +90,6 @@ Debugging smart contracts
 
 ### Day 29
 Learning contract upgrades
+
+### Day 30
+Reviewing Solidity concepts
