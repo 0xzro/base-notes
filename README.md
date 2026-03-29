@@ -141,3 +141,6 @@ Understanding staking concepts
 
 ### Day 46
 Testing DeFi applications
+
+### Day 49
+Understanding tokenomics
