@@ -84,3 +84,6 @@ Learning contract interactions
 
 ### Day 27
 Using testnets
+
+### Day 28
+Debugging smart contracts
