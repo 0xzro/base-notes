@@ -81,3 +81,6 @@ Exploring Base dApps
 
 ### Day 26
 Learning contract interactions
+
+### Day 27
+Using testnets
