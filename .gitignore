@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+lib/
+
+# Build artifacts
+artifacts/
+out/
+cache/
+
+# Environment variables
+.env
+
+# MacOS junk
+.DS_Store
