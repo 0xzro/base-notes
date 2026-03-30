@@ -163,8 +163,12 @@ Learning contract security vulnerabilities
 ### Day 53
 Exploring auditing basics
 
-### Day 54
-Fixing Reentrancy using CEI pattern
+### Day 54: Smart Contract Auditing & Security
+- **Reentrancy Attacks:** Analyzed how the "Greedy Loop" works and implemented the **Checks-Effects-Interactions (CEI)** pattern to fix it.
+- **Access Control:** Identified "God Mode" vulnerabilities and replaced manual `require` checks with reusable `onlyOwner` modifiers.
+- **Project Structure:** Migrated raw `.sol` files into a professional `/contracts` directory.
+
+docs: summarize security patterns and CEI implementation for Day 54
 
 ### Day 55
 ReentrancyAttacker contract to demonstrate exploit
