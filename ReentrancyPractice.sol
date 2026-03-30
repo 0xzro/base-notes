@@ -11,4 +11,3 @@ function withdraw() public {
     require(success, "Transfer failed");
 }
 
-Fixing Reentrancy using CEI pattern
