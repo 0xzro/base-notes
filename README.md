@@ -178,3 +178,6 @@ feat: add vulnerable AccessControl contract for auditing
 
 ### Day 58
 fix: implement onlyOwner modifier for secure access control
+
+### Day 59
+chore: add .gitignore for smart contract environment
