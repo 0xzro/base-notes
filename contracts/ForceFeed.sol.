@@ -2,17 +2,16 @@
 pragma solidity ^0.8.0;
 
 contract ForceFeed {
-    // VULNERABILITY: This contract thinks it can only be 7 ETH 
-    // because it has no way to receive money... or does it?
+    /**
+     * @dev FIXED: Using >= instead of ==.
+     * Even if an attacker forces ETH into this contract via selfdestruct,
+     * the logic will not "brick" because we check for a minimum balance.
+     */
     function withdrawBonus() public {
-        require(address(this).balance == 7 ether, "Must have exactly 7 ETH");
-        // ... logic to pay out bonus
+        require(address(this).balance >= 7 ether, "Not enough ETH to withdraw");
+        // Proceed with withdrawal logic...
     }
-}
 
-contract Attacker {
-    function attack(address payable target) public payable {
-        // This forces ETH into 'target' even if it doesn't want it
-        selfdestruct(target); 
-    }
+    // Function to allow the contract to receive ETH normally
+    receive() external payable {}
 }
