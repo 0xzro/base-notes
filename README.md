@@ -185,3 +185,6 @@ fix: implement onlyOwner modifier for secure access control
 
 ### Day 59
 chore: add .gitignore for smart contract environment
+
+### Day 60
+feat: add Force-Feeding vulnerability via selfdestruct
