@@ -168,3 +168,6 @@ Fixing Reentrancy using CEI pattern
 
 ### Day 55
 ReentrancyAttacker contract to demonstrate exploit
+
+### Day 56
+docs: add reentrancy exploit PoC and documentation
