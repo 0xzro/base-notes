@@ -162,3 +162,6 @@ Learning contract security vulnerabilities
 
 ### Day 53
 Exploring auditing basics
+
+### Day 53
+Fixing Reentrancy using CEI pattern
