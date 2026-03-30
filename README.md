@@ -171,3 +171,7 @@ ReentrancyAttacker contract to demonstrate exploit
 
 ### Day 56
 docs: add reentrancy exploit PoC and documentation
+
+
+### Day 57
+feat: add vulnerable AccessControl contract for auditing
